@@ -27,6 +27,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ![Alt-Text](/screenshots/quiz_windows_.png)
 
-## MACOS
+## WEB
 
 ![Alt-Text](/screenshots/quiz_web.png)
