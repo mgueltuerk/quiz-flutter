@@ -17,16 +17,16 @@ samples, guidance on mobile development, and a full API reference.
 
 ## IOS
 
-![Alt-Text](/screenshots/quiz_ios.png)
+![Alt-Text](/screenshots/quiz_ios_.png)
 
 ## ANDROID
 
-![Alt-Text](/screenshots/quiz_android.png)
+![Alt-Text](/screenshots/quiz_android_.png)
 
 ## WINDOWS
 
-![Alt-Text](/screenshots/quiz_windows.png)
+![Alt-Text](/screenshots/quiz_windows_.png)
 
 ## MACOS
 
-![Alt-Text](/screenshots/quiz_macos.png)
+![Alt-Text](/screenshots/quiz_web.png)
